@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.API", "JwtStore.API\JwtStore.API.csproj", "{FC3CE9D8-5BD5-48E0-B039-1BBD277A409E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Api", "JwtStore.Api\JwtStore.Api.csproj", "{FEE8A7DF-D6D0-4159-8313-D2B311F6C3E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Core", "JwtStore.Core\JwtStore.Core.csproj", "{0B7B8C42-1A50-4512-B8F9-7DB5D4F0A6F0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Core", "JwtStore.Core\JwtStore.Core.csproj", "{59E65A22-81BD-44E6-A685-EC0C97F31BB8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Infra", "JwtStore.Infra\JwtStore.Infra.csproj", "{24F791D6-B780-4D63-A4AD-E2E12289E655}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JwtStore.Infra", "JwtStore.Infra\JwtStore.Infra.csproj", "{32691161-64A0-462A-8C4E-10120143345F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,17 +18,17 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FC3CE9D8-5BD5-48E0-B039-1BBD277A409E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FC3CE9D8-5BD5-48E0-B039-1BBD277A409E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FC3CE9D8-5BD5-48E0-B039-1BBD277A409E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FC3CE9D8-5BD5-48E0-B039-1BBD277A409E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{0B7B8C42-1A50-4512-B8F9-7DB5D4F0A6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{0B7B8C42-1A50-4512-B8F9-7DB5D4F0A6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{0B7B8C42-1A50-4512-B8F9-7DB5D4F0A6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{0B7B8C42-1A50-4512-B8F9-7DB5D4F0A6F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{24F791D6-B780-4D63-A4AD-E2E12289E655}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{24F791D6-B780-4D63-A4AD-E2E12289E655}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{24F791D6-B780-4D63-A4AD-E2E12289E655}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{24F791D6-B780-4D63-A4AD-E2E12289E655}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEE8A7DF-D6D0-4159-8313-D2B311F6C3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEE8A7DF-D6D0-4159-8313-D2B311F6C3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEE8A7DF-D6D0-4159-8313-D2B311F6C3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEE8A7DF-D6D0-4159-8313-D2B311F6C3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59E65A22-81BD-44E6-A685-EC0C97F31BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59E65A22-81BD-44E6-A685-EC0C97F31BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59E65A22-81BD-44E6-A685-EC0C97F31BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59E65A22-81BD-44E6-A685-EC0C97F31BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32691161-64A0-462A-8C4E-10120143345F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32691161-64A0-462A-8C4E-10120143345F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32691161-64A0-462A-8C4E-10120143345F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32691161-64A0-462A-8C4E-10120143345F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
