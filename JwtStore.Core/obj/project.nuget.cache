@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OLX2A0HefR6xUHW8BwXjSK718xXTyM4AKqFjo3IAG/0Qu/br7hLItRuZlPWQQX9DJhOTgxJrh/2JlybE9mWHRA==",
+  "dgSpecHash": "vfIoEhzT5uRGyZM3tys59U8mptDntobwxzpkW4+OVfwgZgKy7e0yTHUfENrNMmldLdWdNfkP4t8WOO0BjULOUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\BMI 02\\Desktop\\Sistema de Login usando JWT\\JwtStore\\JwtStore.Core\\JwtStore.Core.csproj",
   "expectedPackageFiles": [
@@ -18,10 +18,14 @@
     "C:\\Users\\BMI 02\\.nuget\\packages\\microsoft.extensions.options\\2.2.0\\microsoft.extensions.options.2.2.0.nupkg.sha512",
     "C:\\Users\\BMI 02\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
     "C:\\Users\\BMI 02\\.nuget\\packages\\microsoft.net.http.headers\\2.2.0\\microsoft.net.http.headers.2.2.0.nupkg.sha512",
+    "C:\\Users\\BMI 02\\.nuget\\packages\\secureidentity\\1.0.4\\secureidentity.1.0.4.nupkg.sha512",
     "C:\\Users\\BMI 02\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
     "C:\\Users\\BMI 02\\.nuget\\packages\\system.componentmodel.annotations\\4.5.0\\system.componentmodel.annotations.4.5.0.nupkg.sha512",
+    "C:\\Users\\BMI 02\\.nuget\\packages\\system.configuration.configurationmanager\\8.0.0\\system.configuration.configurationmanager.8.0.0.nupkg.sha512",
+    "C:\\Users\\BMI 02\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
     "C:\\Users\\BMI 02\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
     "C:\\Users\\BMI 02\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\BMI 02\\.nuget\\packages\\system.security.cryptography.protecteddata\\8.0.0\\system.security.cryptography.protecteddata.8.0.0.nupkg.sha512",
     "C:\\Users\\BMI 02\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
   ],
   "logs": []

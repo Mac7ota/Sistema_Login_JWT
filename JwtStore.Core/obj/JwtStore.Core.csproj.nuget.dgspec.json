@@ -48,6 +48,14 @@
             "Microsoft.AspNetCore.Rewrite": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "SecureIdentity": {
+              "target": "Package",
+              "version": "[1.0.4, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [
